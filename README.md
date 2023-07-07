@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m not working at the moment<br>🌱 I’m currently learning Flutter<br>👯 I’m looking to collaborate on Flutter Projects<br>🤔 I’m looking for help with Creating Mobile Applications<br>💬 Ask me about Computer Science and all in all<br>📫 How to reach me: Tashkent
+💫 About Me:<br>🔭 I’m not working at the moment<br>🌱 I’m currently learning Flutter<br>👯 I’m looking to collaborate on Flutter Projects<br>🤔 I’m looking for help with Creating Mobile Applications<br>💬 Ask me about Computer Science all in all<br>📫 How to reach me: Tashkent
 
 
 ## 🌐 Socials:
